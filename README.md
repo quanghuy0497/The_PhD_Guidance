@@ -75,7 +75,7 @@ Forked from [macoj](https://github.com/macoj/phd) with minor updates.
   * https://docs.google.com/document/d/1EZwDxa4_201rejxHU5GHG_x1YTnU7z1ztD7FVy3RrKk/
 
 ### Memoir
-* *"The Ph.D. Grind"* by Philip Guo
+* *The Ph.D. Grind* by Philip Guo
   * https://github.com/quanghuy0497/The_PhD_Guidance/blob/main/Book/The%20PhD%20Grind%20-%20Philip%20Guo.pdf
 
 ### Admission
