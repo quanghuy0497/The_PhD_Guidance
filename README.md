@@ -51,7 +51,7 @@ Forked from [macoj](https://github.com/macoj/phd) with minor updates.
 
 ## On HOW
 ### Overall 
-* **_A Survival Guide to a PhD_** by Andrej Karpathy
+* **_A Survival Guide to a PhD_** by Andrej Karpathy (**_recommended_**)
   * http://karpathy.github.io/2016/09/07/phd/
 * **_How to Be a Good Graduate Student_** by Marie desJardins
   * http://www.cs.indiana.edu/how.2b/how.2b.html
@@ -71,13 +71,15 @@ Forked from [macoj](https://github.com/macoj/phd) with minor updates.
   * http://www.markus-jakobsson.com/advice-for-students-and-junior-researchers
 * **_10 easy ways to fail a Ph.D._** by Matt Might
   * http://matt.might.net/articles/ways-to-fail-a-phd/
-* **_Kinh nghiệm học Tiến Sĩ_** by Duc-Minh-Khoi Nguyen
+* **_Kinh nghiệm học Tiến Sĩ_** by Duc-Minh-Khoi Nguyen (written in Vietnamese)
   * https://docs.google.com/document/d/1EZwDxa4_201rejxHU5GHG_x1YTnU7z1ztD7FVy3RrKk/
-* **_Resources to Help Global Equality for PhDs in NLP / AI._** by Zhijing-Jin
+* **_Resources to Help Global Equality for PhDs in NLP / AI._** by Zhijing-Jin (**_recommended_**)
   * https://github.com/zhijing-jin/nlp-phd-global-equality    
+* **_Awsome Grad School tips_** by Spencer Bryngelson (a similar advice/resources summarization similar to this list - **_recommended_**)
+  * https://github.com/poloclub/awesome-grad-school
 
 ### Memoir
-* **_The Ph.D. Grind_** by Philip Guo
+* **_The Ph.D. Grind_** by Philip Guo (**_recommended_**)
   * https://github.com/quanghuy0497/The_PhD_Guidance/blob/main/Book/The%20PhD%20Grind%20-%20Philip%20Guo.pdf
 
 ### Admission
