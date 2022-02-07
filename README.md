@@ -75,7 +75,8 @@ Forked from [macoj](https://github.com/macoj/phd) with minor updates.
   * https://docs.google.com/document/d/1EZwDxa4_201rejxHU5GHG_x1YTnU7z1ztD7FVy3RrKk/
 * **_Resources to Help Global Equality for PhDs in NLP / AI._** by Zhijing-Jin (**_recommended_**)
   * https://github.com/zhijing-jin/nlp-phd-global-equality    
-* **_Awsome Grad School tips_** by Spencer Bryngelson (a similar advice/resources summarization similar to this list - **_recommended_**)
+* **_Awsome Grad School tips_** by Spencer Bryngelson (**_recommended_**)
+  * A similar advice/resources summarization similar to this list, including general advices for pursuing Ph.D., internship as a Ph.D. student, paper writing tips, and life-study balancing advice
   * https://github.com/poloclub/awesome-grad-school
 
 ### Memoir
