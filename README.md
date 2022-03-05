@@ -53,6 +53,11 @@ Forked from [macoj](https://github.com/macoj/phd) with minor updates.
 ### Overall 
 * **_A Survival Guide to a PhD_** by Andrej Karpathy (**_recommended_**)
   * http://karpathy.github.io/2016/09/07/phd/
+* **_Awsome Grad School tips_** by Spencer Bryngelson (**_recommended, update frequently_**)
+  * A similar advice/resources summarization similar to this list, including general advices for pursuing Ph.D., internship as a Ph.D. student, paper writing tips, and life-study balancing advice
+  * https://github.com/poloclub/awesome-grad-school
+* **_The Tao of PhD_** by University of Washington
+  * https://courses.cs.washington.edu/courses/cse590x/22wi/resources/ 
 * **_How to Be a Good Graduate Student_** by Marie desJardins
   * http://www.cs.indiana.edu/how.2b/how.2b.html
 * **_Ten Lessons I wish I had been Taught_** by Gian-Carlo Rota
@@ -75,9 +80,6 @@ Forked from [macoj](https://github.com/macoj/phd) with minor updates.
   * https://docs.google.com/document/d/1EZwDxa4_201rejxHU5GHG_x1YTnU7z1ztD7FVy3RrKk/
 * **_Resources to Help Global Equality for PhDs in NLP / AI._** by Zhijing-Jin (**_recommended_**)
   * https://github.com/zhijing-jin/nlp-phd-global-equality    
-* **_Awsome Grad School tips_** by Spencer Bryngelson (**_recommended_**)
-  * A similar advice/resources summarization similar to this list, including general advices for pursuing Ph.D., internship as a Ph.D. student, paper writing tips, and life-study balancing advice
-  * https://github.com/poloclub/awesome-grad-school
 
 ### Memoir
 * **_The Ph.D. Grind_** by Philip Guo (**_recommended_**)
